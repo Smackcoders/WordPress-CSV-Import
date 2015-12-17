@@ -1,31 +1,29 @@
 ## CSV Import ##
-** Contributors: ** Smackcoders
+**Contributors:** Smackcoders
 
-** Donate link: ** http://www.smackcoders.com/donate.html
+**Donate link:** http://www.smackcoders.com/donate.html
 
-** Tags: ** batch, import, plugin, admin, CSV, importer, data, backup, author, automatic, blog, categories, category, statistics, stats, tag, tags, Taxonomy, template, text, thumbnail, thumbnails, title, upload, URL, WordPress.
+**Tags:** batch, import, plugin, admin, CSV, importer, data, backup, author, automatic, blog, categories, category, statistics, stats, tag, tags, Taxonomy, template, text, thumbnail, thumbnails, title, upload, URL, WordPress.
 
-** Requires at least: ** 4.3
+**Requires at least:** 4.3
 
-** Tested up to: ** 4.4
+**Tested up to:** 4.3
 
-** Stable tag: ** 1.0
+**Stable tag:** 1.0
 
-** Version: ** 1.0
+**Version:** 1.0
 
-** Author: ** Smackcoders
+**Author:** Smackcoders
 
-** Author URI: ** http://profiles.WordPress.org/smackcoders/
+**Author URI:** http://profiles.WordPress.org/smackcoders/
 
-** License: ** GPLv2 or later
-
-An importer for CSV file with inline and featured image handling for Post, Page and Custom Post.
+**License:** GPLv2 or later
 
 #### Description #### 
+An importer for CSV file with inline and featured image handling for Post, Page and Custom Post.
+CSV Import enables to import Post, Page and Custom Post along with default WordPress Custom Fields and SEO fields. The SEO fields of All in One SEO plugin and Custom Post Type created with CPT UI plugin can be imported. 
 
-CSV Import enables to import Post, Page and Custom Post along with default Custom Fields and SEO fields. The SEO fields of All in One SEO plugin and Custom Post Type created with CPT UI plugin can be imported. 
-
-** Highlights **
+**Highlights**
 
 * Imports both inline and featured image.
 * Import and register default custom fields.
@@ -33,11 +31,11 @@ CSV Import enables to import Post, Page and Custom Post along with default Custo
 * Detailed log with Web view and Admin view.
 * supports All in One SEO plugin for SEO fields import.
 
-** Menu **
+**Menu**
 
 The plugin has five menus. Dashboard, Post, Page, Custom Post and Settings. The Dashboard holds two graphical representation of import history. The Post, Page and Custom Post menus enables to carry out the import process. The php.ini details in Settings menu enables to cross check the minimum requirement with server configuration. 
 
-** Procedure **
+**Procedure**
 
 Step-1 Upload <br />
 
@@ -71,11 +69,11 @@ For Support and Feature request, visit <a href="https://smackcoders.freshdesk.co
 
 #### Screenshots ####
 
-1. Dashboard view of the import CSV details.
-2. CSV Upload section.
-3. Mapping section with Custom Post type dropdown.
-4. Detailed log with Admin view and Web view.
-5. Settings with php.ini details.
+1. [Dashboard view of the import CSV details.](https://github.com/Smackcoders/WordPress-CSV-Import/blob/master/screenshot-1.png).
+2. [CSV Upload section.](https://github.com/Smackcoders/WordPress-CSV-Import/blob/master/screenshot-2.png).
+3. [Mapping section with Custom Post type dropdown.](https://github.com/Smackcoders/WordPress-CSV-Import/blob/master/screenshot-3.png).
+4. [Detailed log with Admin view and Web view.](https://github.com/Smackcoders/WordPress-CSV-Import/blob/master/screenshot-4.png).
+5. [Settings with php.ini details.](https://github.com/Smackcoders/WordPress-CSV-Import/blob/master/screenshot-5.png).
 
 #### Frequently Asked Questions ####
 
